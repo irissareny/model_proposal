@@ -98,21 +98,3 @@ What quantitative metrics and/or qualitative features will you use to assess you
 
 # Parameter Sweep
  I am interested in looking at how pattern distributions of these two ants is modify by competition. Whit the model I will explore how azteca pattern formation which is formed by density depenndent factors and also limited by competition with wasmania. 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
